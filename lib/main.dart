@@ -10,7 +10,7 @@ class MyApp extends StatelessWidget {
     return MaterialApp(
       home: Material(
         child: Center(
-          child: Container(child: Text("Hi")),
+          child: Container(child: Text("Hello World")),
         ),
       ),
     );
